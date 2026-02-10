@@ -16,7 +16,7 @@ REST API Sistem Informasi Akademik Kampus (SIAKAD) yang dirancang untuk menangan
 ---
 
 
----
+
 
 ## Struktur Folder
 
@@ -57,9 +57,7 @@ src/
 
 ```
 
----
 
----
 
 ## 🧩 Deskripsi Modul
 
@@ -158,21 +156,16 @@ Authorization: Bearer <token>
 
 ```
 
-## Testis API
-
-```makefile
-Authorization: Bearer <token>
-
-```
 
 
----
+
+
 
 ## Author
 
 **Arfan Salman Ramadhan**
 Backend Developer | Node.js | Express.js | MongoDB | REST API
 
----
+
 
 
